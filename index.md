@@ -116,34 +116,9 @@ Svo save-uðum við og reboot-uðum.
 
 ### Samsetning og lóðun
 
-Lóðun gekk vel þangað til það þurfti að lóða headers á Zero-inn.
+Lóðun gekk vel þangað til það þurfti að lóða headers á Zero-inn. Útaf hversu slæm lóðunin var hjá öllum nema einum hóp þurftu allir að skipta í Raspberry pi 3.
 
+![Bonnet og Accelerometer hlið 1 ófest](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2222.JPG?raw=true)
+![Bonnet og Accelerometer hlið 2 fest/lóðað](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2242.JPG?raw=true)
+![Allt saman með 3 í stað Zero](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2241.JPG?raw=true)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Douchebag/vf_verk3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
