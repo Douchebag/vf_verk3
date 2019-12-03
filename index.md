@@ -118,7 +118,7 @@ Svo save-uðum við og reboot-uðum.
 
 Lóðun gekk vel þangað til það þurfti að lóða headers á Zero-inn. Útaf hversu slæm lóðunin var hjá öllum nema einum hóp þurftu allir að skipta í Raspberry pi 3.
 
-![Bonnet og Accelerometer hlið 1 ófest](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2222.JPG?raw=true)
-![Bonnet og Accelerometer hlið 2 fest/lóðað](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2242.JPG?raw=true)
-![Allt saman með 3 í stað Zero](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2241.JPG?raw=true)
+![Bonnet og Accelerometer hlið 1 ófest](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2222.JPG =100x100)
+![Bonnet og Accelerometer hlið 2 fest/lóðað](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2242.JPG =100x100)
+![Allt saman með 3 í stað Zero](https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2241.JPG =100x100)
 
