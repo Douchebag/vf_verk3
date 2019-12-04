@@ -121,4 +121,5 @@ Lóðun gekk vel þangað til það þurfti að lóða headers á Zero-inn. Úta
 <img src="https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2222.JPG?raw=true"  width="250" height="250">
 <img src="https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2242.JPG?raw=true"  width="250" height="250">
 <img src="https://github.com/Douchebag/vf_verk3/blob/master/myndir/IMG_2241.JPG?raw=true"  width="250" height="250">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-cC4GKKma8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video sýnir allt virka áður en rgb-sequence var lagað svo litirnir eru ekki réttir. 
